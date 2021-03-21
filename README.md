@@ -13,3 +13,6 @@ A lot more
 this is how you can design the files headers and sub headers. there will be more I guess. 
 
 
+## Local Setup 
+
+open index.html in a web browser. 
